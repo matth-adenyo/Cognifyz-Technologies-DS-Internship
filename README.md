@@ -1,1 +1,1 @@
-# Cognifyz-Technologies-DS-Internship
+# Cognifyz Technologies Data Science Internship
